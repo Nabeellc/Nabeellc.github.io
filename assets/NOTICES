@@ -1716,11 +1716,6 @@ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
 ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
-async
-collection
-stream_channel
-=======
 args
 
 Copyright 2013, the Dart project authors. 
@@ -1756,7 +1751,6 @@ async
 collection
 stream_channel
 typed_data
->>>>>>> bc08180 (contact us update)
 
 Copyright 2015, the Dart project authors. 
 
@@ -7304,12 +7298,9 @@ url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
-<<<<<<< HEAD
-=======
 vector_graphics
 vector_graphics_codec
 vector_graphics_compiler
->>>>>>> bc08180 (contact us update)
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
@@ -7338,8 +7329,6 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
-=======
 flutter_svg
 
 Copyright (c) 2018 Dan Field
@@ -7362,7 +7351,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
->>>>>>> bc08180 (contact us update)
 freetype2
 
 Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
@@ -14234,8 +14222,6 @@ shall not be used in advertising or otherwise to promote the sale,
 use or other dealings in these Data Files or Software without prior
 written authorization of the copyright holder.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
-=======
 http
 http_parser
 matcher
@@ -14272,7 +14258,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
->>>>>>> bc08180 (contact us update)
 icu
 
 #      Copyright (c) 2006-2015 International Business Machines Corporation,
@@ -30849,43 +30834,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
-matcher
-path
-source_span
-string_scanner
-
-Copyright 2014, the Dart project authors. 
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-      copyright notice, this list of conditions and the following
-      disclaimer in the documentation and/or other materials provided
-      with the distribution.
-    * Neither the name of Google LLC nor the names of its
-      contributors may be used to endorse or promote products derived
-      from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-=======
->>>>>>> bc08180 (contact us update)
 material_color_utilities
 
 
@@ -31092,8 +31040,6 @@ material_color_utilities
    limitations under the License.
 
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
-=======
 path_parsing
 
 Copyright (c) 2018 Dan Field
@@ -31117,7 +31063,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
->>>>>>> bc08180 (contact us update)
 perfetto
 
 Apache License
@@ -31308,8 +31253,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
-=======
 petitparser
 xml
 
@@ -31337,7 +31280,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 --------------------------------------------------------------------------------
->>>>>>> bc08180 (contact us update)
 pkg
 
 Copyright (c) 2013, the Dart project authors.  Please see the AUTHORS file
